@@ -1,7 +1,6 @@
-### Hi there 👋
+### Welcome to Michel's GitHub Page! 👋
 
-<!--
-**michelgokan/michelgokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is _Michel Gokan Khan_ & I'm a Computer Science PhD candidate at the Karlstad University 🇸🇪. My current focus is optimizing service function chains for NFV use cases in 5G networks through deep learning.
 
 Here are some ideas to get you started:
 
