@@ -1,6 +1,6 @@
 ### Welcome to Michel's GitHub Page! 👋
 
-My name is _Michel Gokan Khan_ & I'm a Computer Science PhD candidate at the Karlstad University 🇸🇪. My current focus is optimizing service function chains for NFV use cases in 5G networks through deep learning.
+My name is _Michel Gokan Khan_ & I'm a Computer Science PhD student at the Karlstad University 🇸🇪. My current focus is optimizing service function chains for NFV use cases in 5G networks through deep learning.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MichelGokan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelgokan/)
