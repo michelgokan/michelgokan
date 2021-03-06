@@ -16,6 +16,6 @@ My name is _Michel Gokan Khan_ & I'm a Computer Science PhD student at the Karls
 
 I'm a computer science researcher. I recieved BSc degree in applied mathematics and continued with MSc in computer engineering @ Iran University of Science and Technology (ranked #1 amongst all universities in Iran by Times Higher Education rankings in 2017). I started my PhD journey with the [Distributed Systems and Communications lab (DISCO)](https://www.kau.se/en/cs/research/research-areas/computer-networking-disco/disco-distributed-systems-and-communications "DISCO lab") @ Karlstad University (KAU) in Sweden. During my PhD, I worked in Ericsson research and development department as a research intern and directly contributed to the projects related to optimizing both the 4G-LTE and the 5G core.
 
-I have a established publications and inventions record. To know more about me and get access to the most recent information and updates about my research, please visit [my Linkedin profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelgokan/) or [follow me on Twitter](https://twitter.com/michelgokan).
+I have a established publications and inventions record. To know more about me and get access to the most recent information and updates about my research, please visit [my Linkedin profile](https://www.linkedin.com/in/michelgokan/) or [follow me on Twitter](https://twitter.com/michelgokan).
 
 ![Michel's github stats](https://github-readme-stats.vercel.app/api?username=michelgokan&show_icons=true)
