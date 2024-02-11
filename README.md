@@ -1,6 +1,6 @@
 ### Welcome to Michel's GitHub Page! 👋
 
-My name is _Michel Gokan Khan_ & I'm a Computer Science PhD student at the Karlstad University 🇸🇪. My current focus is optimizing service function chains for NFV use cases in 5G networks through deep learning.
+My name is _Michel Gokan Khan_ & I'm a computer science researcher. I have a PhD in computer science from Karlstad University 🇸🇪. My current focus is optimizing service function chains in the context of cloud native computing with use cases in 5G networks and NFV through deep learning.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MichelGokan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelgokan/)
@@ -14,7 +14,7 @@ My name is _Michel Gokan Khan_ & I'm a Computer Science PhD student at the Karls
 <!-- Any image aligned to the right. Beware the width -->
 <img width="40%" align="right" alt="LIDo_Int" src="https://raw.githubusercontent.com/michelgokan/michelgokan/main/IAB-Posterpresentation_0.jpg" />
 
-I'm a computer science researcher. I recieved BSc degree in applied mathematics and continued with MSc in computer engineering @ Iran University of Science and Technology (ranked #1 amongst all universities in Iran by Times Higher Education rankings in 2017). I started my PhD journey with the [Distributed Systems and Communications lab (DISCO)](https://www.kau.se/en/cs/research/research-areas/computer-networking-disco/disco-distributed-systems-and-communications "DISCO lab") @ Karlstad University (KAU) in Sweden. During my PhD, I worked in Ericsson research and development department as a research intern and directly contributed to the projects related to optimizing both the 4G-LTE and the 5G core.
+I recieved BSc degree in applied mathematics and continued with MSc in computer engineering @ Iran University of Science and Technology. I started my PhD journey with the [Distributed Systems and Communications lab (DISCO)](https://www.kau.se/en/cs/research/research-areas/computer-networking-disco/disco-distributed-systems-and-communications "DISCO lab") @ Karlstad University (KAU) in Sweden. During my PhD, I worked in Ericsson research and development department as a research intern and directly contributed to the projects related to optimizing both the 4G-LTE and the 5G core.
 
 I have a established publications and inventions record. To know more about me and get access to the most recent information and updates about my research, please visit [my Linkedin profile](https://www.linkedin.com/in/michelgokan/) or [follow me on Twitter](https://twitter.com/michelgokan).
 
