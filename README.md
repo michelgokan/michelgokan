@@ -1,6 +1,6 @@
 ### Welcome to Michel's GitHub Page! 👋
 
-My name is _Michel Gokan Khan_ & I'm a computer science researcher. I have a PhD in computer science from Karlstad University 🇸🇪. My current focus is optimizing service function chains in the context of cloud native computing with use cases in 5G networks and NFV through deep learning.
+My name is _Michel Gokan Khan_ & I'm a computer science researcher. I'm currently conducting research as a PostDoc at KTH Royal Institute of Technology and AstraZeneca in ML-Driven Optimization of Production in Industry 5.0. I have a PhD in computer science from KAU Sweden 🇸🇪. My focus was optimizing service function chains in the context of cloud native computing with use cases in 5G networks and NFV through deep learning.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MichelGokan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelgokan/)
