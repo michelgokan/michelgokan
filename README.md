@@ -8,7 +8,7 @@ My name is _Michel Gokan Khan_ & I'm a computer science researcher. I'm currentl
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelgokan/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/michelgokan)
 [![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gokan.michel@gmail.com)](mailto:gokan.michel@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:michel.gokan@kau.se)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:michelgk@kth.se)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Michel_Gokan_Khan)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=LJV0pHQAAAAJ&hl=en)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://michelgokankhan.medium.com/)
