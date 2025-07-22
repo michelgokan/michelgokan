@@ -1,6 +1,6 @@
 ### Welcome to Michel's GitHub Page! 👋
 
-My name is _Michel Gokan Khan_ & I'm a computer science researcher. I'm currently conducting research as a PostDoc at KTH Royal Institute of Technology in collaboration with AstraZeneca in ML-Driven Optimization of Production in Industry 5.0. I have a PhD in computer science from KAU Sweden 🇸🇪. My focus was optimizing service function chains in the context of cloud native computing with use cases in 5G networks and NFV through deep learning.
+My name is _Michel Gokan Khan_ & I'm a computer science researcher. I was conducting research as a PostDoc at KTH Royal Institute of Technology in collaboration with AstraZeneca in ML-Driven Optimization of Production in Industry 5.0. I have a PhD in computer science from KAU Sweden 🇸🇪. My focus was optimizing service function chains in the context of cloud native computing with use cases in 5G networks and NFV through deep learning.
 
 > *IMPORTANT NOTE*: Unless otherwise mentioned in the `README.md`, any contributions or repositories on my account are not affiliated with any organization, company, or institution I am or was affiliated with.
 
