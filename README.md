@@ -20,4 +20,4 @@ I recieved BSc degree in applied mathematics and continued with MSc in computer 
 
 I have a established publications and inventions record. To know more about me and get access to the most recent information and updates about my research, please visit [my Linkedin profile](https://www.linkedin.com/in/michelgokan/) or [follow me on Twitter](https://twitter.com/michelgokan).
 
-![Michel's github stats](https://github-readme-stats.vercel.app/api?username=michelgokan&show_icons=true)
+
